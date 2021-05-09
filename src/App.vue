@@ -27,13 +27,13 @@ export default {
   },
 };
 </script>
-
-<style>
+<style scoped>
 body{
   background:linear-gradient(to bottom, #555, #999);
   background-attachment: fixed;
 }
-
+</style>
+<style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
